@@ -3,7 +3,7 @@ This project is based on the bubble sort algorithm, which is developed in ruby l
 
 # Authors:
 <ul>
-  <li> <a href="#">Gabriela Cruz </a> </li>
+  <li> <a href="https://github.com/ViriCruz">Gabriela Cruz </a> </li>
   <li> <a href="http://github.com/gonjavi">Gonzalo Javier Mancilla </a></li>
  </ul>
 
