@@ -5,8 +5,8 @@ This project is based on the bubble sort algorithm, which is developed in ruby l
 <ul>
   <li> <a href="https://github.com/ViriCruz">Gabriela Cruz </a> </li>
   <li> <a href="http://github.com/gonjavi">Gonzalo Javier Mancilla </a></li>
- </ul>
+</ul>
 
 <h1>Live version:</h1> 
-<a href="https://repl.it/@gonjavi/RepentantTechnologicalPrograms-1">Live version</a>
+<a href="https://repl.it/@ViriCruz/RepentantTechnologicalPrograms-1">Live version</a>
 
