@@ -15,6 +15,7 @@ This project is based on the bubble sort algorithm, which is developed in ruby l
 👤 **Gabriela Cruz**
 
 - Github: [@github/ViriCruz](https://github.com/ViriCruz)
+- Linkedin: [linkedin](https://www.linkedin.com/in/viricruz/)
 
 👤 **Gonza Javier Mancilla**
 
